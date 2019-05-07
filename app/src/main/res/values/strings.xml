@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo ExplicitIntent</string>
+    <string name="batman">Batman</string>
+    <string name="superman">Superman</string>
+    <string name="name">Name</string>
+    <string name="strength">Strength</string>
+    <string name="technicalProwness">Technical Prowness</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+</resources>
